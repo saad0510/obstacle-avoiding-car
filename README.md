@@ -9,6 +9,8 @@ A small robot car which is able to detect obstacles in its way and avoid them. T
 ## Demostration
 
 Refer to [this video](https://drive.google.com/file/d/1nEnchumVxM4DWO4jIOzs4fwrC8J2_1GV/view?usp=sharing) to see a working demostration of our project.
+
+For a detailed documentation, refer to this [report.](./Report.pdf)
  
 ## References
 
